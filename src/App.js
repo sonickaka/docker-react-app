@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          또한번 반갑습니다.
+		niceshot!
         </a>
       </header>
     </div>
